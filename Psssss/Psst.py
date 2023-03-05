@@ -40,3 +40,4 @@ nazwisko = input("Podaj mi rowniez swoje nazwisko:  ")
 print("Dziekuje.")
 print("\nNazywasz sie " + imie + " " + nazwisko + ".")
 print ("koniec programu")
+
